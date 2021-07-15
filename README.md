@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on any project, because I´m want grow in this industry.
 - 📫 How to reach me: +593979424062, write me!
 
-## Where can you do my work?
+## Where you can find me?
 
 LinkedIn => **As Lenin Mazabanda**: https://www.linkedin.com/in/lenin-mazabanda-1370b41b2/
 Medium => **As Leninner**: https://leninner.medium.com/
