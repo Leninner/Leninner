@@ -9,8 +9,8 @@
 
 ## Where you can find me?
 
-LinkedIn => **As Lenin Mazabanda**: https://www.linkedin.com/in/lenin-mazabanda-1370b41b2/
-Medium => **As Leninner**: https://leninner.medium.com/
+- LinkedIn => **As Lenin Mazabanda**: https://www.linkedin.com/in/lenin-mazabanda-1370b41b2/
+- Medium => **As Leninner**: https://leninner.medium.com/
 
 ## I really hope to hear from you soon, **see you there!**
 
