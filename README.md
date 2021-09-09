@@ -9,7 +9,7 @@
 
 ## Where you can find me?
 
-- [LinkedIn](blank:#https://www.linkedin.com/in/leninner/) => **As Lenin Mazabanda**
+- [LinkedIn](https://www.linkedin.com/in/leninner/) => **As Lenin Mazabanda**
 - Medium => **As Leninner**: https://leninner.medium.com/
 
 ## I really hope to hear from you soon, **see you there!**
