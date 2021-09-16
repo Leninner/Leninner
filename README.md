@@ -1,4 +1,4 @@
-# ¿Quién es Lenin Mazabanda?
+# ¿Quién soy yo?
 
 Mi nombre es Lenin, soy autodidacta y Frontend Developer. 
 Manejo las tecnologías para front: 
@@ -22,7 +22,7 @@ Me gustaría trabajar en una empresa en donde su cultura sea genial, en donde te
 ## ¿Dónde puedes encontrarme?
 
 - [LinkedIn](https://www.linkedin.com/in/leninner/) => **As Lenin Mazabanda**
-- Medium => **As Leninner**: https://leninner.medium.com/
+- [Medium]( https://leninner.medium.com/) => **As Leninner**
 
 <!---
 Leninner/Leninner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
