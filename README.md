@@ -3,7 +3,7 @@
 Soy autodidacta y Frontend Developer Junior. En mis ratos libres me pongo a estudiar full sobre el front, escuchando una buena sala de fondo, obviamente.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leninner&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leninner&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leninner)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Te cuento un poco de mis habilidades 😏
 
