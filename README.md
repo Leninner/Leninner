@@ -10,6 +10,10 @@ Soy autodidacta y Frontend Developer Junior. En mis ratos libres me pongo a estu
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leninner)](https://github.com/anuraghazra/github-readme-stats)
 
+## Estadísticas de tiempo semanal
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leninner)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Te cuento un poco de mis habilidades 😏
 
 Manejo las siguientes tecnologías para front: 
