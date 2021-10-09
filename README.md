@@ -24,6 +24,7 @@ Manejo las siguientes tecnologías para front:
 - Sass
 - Webpack
 - React
+- Tailwind CSS
 
 En mis últimos proyectos he venido trabajando con **Sass**, por su versatilidad y facilidad de uso. _Domino también React como librería de Javascript._
 
