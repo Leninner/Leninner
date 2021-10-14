@@ -1,6 +1,6 @@
 # Hola, yo soy Lenin 😄
 
-Soy autodidacta y Frontend Developer Junior. En mis ratos libres me pongo a estudiar full sobre el front, escuchando una buena sala de fondo, obviamente.
+Soy autodidacta y Frontend Developer Junior. En mis ratos libres me pongo a estudiar full sobre el front, escuchando una buena canción de fondo, obviamente.
 
 ## Estadísticas de mi perfil
 
