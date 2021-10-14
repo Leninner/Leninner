@@ -6,10 +6,6 @@ Soy autodidacta y Frontend Developer Junior. En mis ratos libres me pongo a estu
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leninner&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Lenguajes más utilizados
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leninner)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Estadísticas de tiempo semanal
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leninner)](https://github.com/anuraghazra/github-readme-stats)
@@ -27,7 +23,11 @@ Manejo las siguientes tecnologías para front:
 - Tailwind CSS
 - Jest
 
-En mis últimos proyectos he venido trabajando con **Sass**, por su versatilidad y facilidad de uso. _Domino también React como librería de Javascript._
+## Lenguajes más utilizados
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leninner)](https://github.com/anuraghazra/github-readme-stats)
+
+En mis últimos proyectos he venido trabajando con **Tailwind CSS**, por su velocidad y facilidad de uso. _Domino también React como librería de Javascript._
 
 Y claro, con la siguiente tecnología no tendría ni la cara de llamarme desarrollador de software: **GIT**
 Manejo Git y también uso Github para alojar mis proyectos, **considero que esta habilidades es totalmente imprescindible.**
