@@ -14,14 +14,14 @@ Soy autodidacta y Frontend Developer Junior. En mis ratos libres me pongo a estu
 
 Manejo las siguientes tecnologías para front: 
 
-- Javascript 
-- HTML
-- Css
-- Sass
-- Webpack
-- React
-- Tailwind CSS
-- Jest
+- Javascript (avanzado)
+- HTML (avanzado)
+- Css (intermedio)
+- Sass (intermedio)
+- Webpack (intermedio)
+- React (intermedio)
+- Tailwind CSS (intermedio)
+- Jest (principiante)
 - Python (principiante)
 - Java (principiante)
 - C (principiante)
