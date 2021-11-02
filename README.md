@@ -22,10 +22,9 @@ Manejo las siguientes tecnologías para front:
 - React
 - Tailwind CSS
 - Jest
-
-## Lenguajes más utilizados
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leninner)](https://github.com/anuraghazra/github-readme-stats)
+- Python (principiante)
+- Java (principiante)
+- C (principiante)
 
 En mis últimos proyectos he venido trabajando con **Tailwind CSS**, por su velocidad y facilidad de uso. _Domino también React como librería de Javascript._
 
