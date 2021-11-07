@@ -4,7 +4,7 @@ Soy autodidacta y Frontend Developer Junior. En mis ratos libres me pongo a estu
 
 ## Estadísticas de mi perfil
 
-![Metrics](https://github.com/leninner/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/leninner?template=classic&languages=1&introduction=1&gists=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.aliases=JS&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=America%2FGuayaquil)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leninner&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
