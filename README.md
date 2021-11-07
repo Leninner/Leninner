@@ -4,6 +4,8 @@ Soy autodidacta y Frontend Developer Junior. En mis ratos libres me pongo a estu
 
 ## Estadísticas de mi perfil
 
+![Metrics](https://github.com/leninner/github-metrics.svg)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leninner&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Estadísticas de tiempo semanal
