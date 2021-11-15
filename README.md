@@ -7,6 +7,15 @@ Soy autodidacta y Frontend Developer Junior. En mis ratos libres me pongo a estu
 - [LinkedIn](https://www.linkedin.com/in/leninner/) => **As Lenin Mazabanda** 
 - [Medium]( https://leninner.medium.com/) => **As Leninner**
 
+## My GitHub Stats 📊
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=leninner&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leninner" />
+</a>
+
 ## Estadísticas de mi perfil
 
 ![Metrics](https://metrics.lecoq.io/leninner?template=classic&languages=1&introduction=1&gists=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.aliases=JS&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=America%2FGuayaquil)
