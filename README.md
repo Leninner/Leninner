@@ -9,9 +9,6 @@ Soy autodidacta y Frontend Developer Junior. En mis ratos libres me pongo a estu
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=leninner)
 
-<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://twitter.com/"/>
-<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href= "https://www.linkedin.com/in/leninner"/>
-
 ## My GitHub Stats 📊
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
