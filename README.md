@@ -1,13 +1,26 @@
 # Hola, yo soy Lenin 😄
 
-Soy autodidacta y Frontend Developer Junior. En mis ratos libres me pongo a estudiar full sobre el front, escuchando una buena canción de fondo, obviamente.
-
-## ¿Dónde puedes encontrarme?
-
-- [LinkedIn](https://www.linkedin.com/in/leninner/) => **As Lenin Mazabanda** 
-- [Medium]( https://leninner.medium.com/) => **As Leninner**
+Soy autodidacta y Frontend Developer Junior. En mis ratos libres me pongo a estudiar full sobre el front, escuchando una buena canción de fondo, obviamente. I´m currently working in my english level.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=leninner)
+
+<h3> 🔭 My RRSS </h3>
+
+- <a href= 'https://leninner.medium.com/'> Medium Blog Posts </a>
+- <a href= 'https://www.linkedin.com/in/leninner/'> LinkedIn </a>
+- <a href= 'https://twitter.com/Lenin62311360'> Twitter </a>
+
+<h3> 🌱 I’m currently learning  </h3>
+
+- React
+- Redux
+- Habilidades blandas
+
+<h3> 👯 I’m looking to collaborate on </h3>
+  
+- Technical React Projects
+- Projects related to **Frontend Development**
+- Building cool e-commerces
 
 ## My GitHub Stats 📊
 
@@ -17,22 +30,6 @@ Soy autodidacta y Frontend Developer Junior. En mis ratos libres me pongo a estu
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leninner" />
 </a>
-
-<h3> 🔭 I’m currently working on </h3>
-- <a href= 'https://leninner.medium.com/'> Medium Blog Posts </a>
-<h3> 🌱 I’m currently learning  </h3>
-- Data Science
-- Data Engineering
-- Azure and AWS
-<h3> 👯 I’m looking to collaborate on </h3>
-  
-- Technical Blog Posts
-- Projects related to ML/Data Science
-- Building Cool APIs
-<h3> 💬 Talk to me about </h3>
-- Pokemon
-- Shows to binge watch on Netflix 
-- Soccer :soccer:
 
 ## Estadísticas de mi perfil
 
