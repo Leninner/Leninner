@@ -8,9 +8,9 @@ Soy autodidacta y Frontend Developer Junior. En mis ratos libres me pongo a estu
 - [Medium]( https://leninner.medium.com/) => **As Leninner**
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=leninner)
-<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" / href= "https://github.com/leninner">
-<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://twitter.com/"/>
-[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href= "https://www.linkedin.com/in/leninner"/>
+
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://twitter.com/"/>
+<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href= "https://www.linkedin.com/in/leninner"/>
 
 ## My GitHub Stats 📊
 
