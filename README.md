@@ -18,6 +18,22 @@ Soy autodidacta y Frontend Developer Junior. En mis ratos libres me pongo a estu
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leninner" />
 </a>
 
+<h3> 🔭 I’m currently working on </h3>
+- <a href= 'https://leninner.medium.com/'> Medium Blog Posts </a>
+<h3> 🌱 I’m currently learning  </h3>
+- Data Science
+- Data Engineering
+- Azure and AWS
+<h3> 👯 I’m looking to collaborate on </h3>
+  
+- Technical Blog Posts
+- Projects related to ML/Data Science
+- Building Cool APIs
+<h3> 💬 Talk to me about </h3>
+- Pokemon
+- Shows to binge watch on Netflix 
+- Soccer :soccer:
+
 ## Estadísticas de mi perfil
 
 ![Metrics](https://metrics.lecoq.io/leninner?template=classic&languages=1&introduction=1&gists=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.aliases=JS&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=America%2FGuayaquil)
