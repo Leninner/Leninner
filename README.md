@@ -7,7 +7,6 @@ Soy autodidacta y Frontend Developer Junior. En mis ratos libres me pongo a estu
 - [LinkedIn](https://www.linkedin.com/in/leninner/) => **As Lenin Mazabanda** 
 - [Medium]( https://leninner.medium.com/) => **As Leninner**
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=leninner)
 
 ## My GitHub Stats 📊
