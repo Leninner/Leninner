@@ -8,6 +8,7 @@ Soy autodidacta y Frontend Developer Junior. En mis ratos libres me pongo a estu
 - [Medium]( https://leninner.medium.com/) => **As Leninner**
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=leninner)
 
 ## My GitHub Stats 📊
 
