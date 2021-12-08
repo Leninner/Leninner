@@ -11,7 +11,7 @@ Soy autodidacta y Frontend Developer Junior. En mis ratos libres me pongo a estu
 <h3> 🔭 How to reach me? </h3>
 
 <a href="https://wa.link/ycofah">
-![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/>
 </a>
 
 - <a href= 'https://leninner.medium.com/'> Medium Blog Posts </a>
