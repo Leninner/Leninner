@@ -4,7 +4,13 @@ Soy autodidacta y Frontend Developer Junior. En mis ratos libres me pongo a estu
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=leninner)
 
-<h3> 🔭 My RRSS </h3>
+## My Current Tech Stack
+
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<h3> 🔭 How to reach me? </h3>
+
+[!url][https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white]
 
 - <a href= 'https://leninner.medium.com/'> Medium Blog Posts </a>
 - <a href= 'https://www.linkedin.com/in/leninner/'> LinkedIn </a>
