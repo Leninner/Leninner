@@ -17,7 +17,7 @@ Soy autodidacta y Frontend Developer Junior. En mis ratos libres me pongo a estu
 
 <h3> 🔭 How to reach me? </h3>
 
-<a href="https://www.linkedin.com/in/leninner/">
+<a href="https://www.linkedin.com/in/leninner/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 
