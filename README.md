@@ -1,11 +1,11 @@
-![texto_alternativo](https://wallpapercave.com/wp/wp4923991.png)
-
 # Hi, I am Lenin. Frontend Developer with ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 😄
 
 I am a **very self-taught and curious** Frontend Developer. In my free time, I have been learning a lot about techs of the front like ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black), ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB), ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white), ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) and many others techs. In addition, I have been improving my level of English.
 
 I'm a **very passionate** person with what I'm doing, **enjoying** every headache when I can't understand a topic 100%.
 I would like to work in a company where their culture is great, where one of their priorities is **to ensure the mental health of their workers**; a company where mistakes are totally allowed and they are constantly breaking things to **innovate**.
+
+![texto_alternativo](https://wallpapercave.com/wp/wp4923991.png)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=leninner)
 
