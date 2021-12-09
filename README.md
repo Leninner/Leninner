@@ -1,4 +1,4 @@
-![texto_alternativo](https://wallpapercave.com/wp/wp4923991.png){width=100% height=auto}
+![texto_alternativo](https://wallpapercave.com/wp/wp4923991.png)
 
 # Hi, I am Lenin. Frontend Developer with ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 😄
 
