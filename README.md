@@ -21,19 +21,19 @@ Soy autodidacta y Frontend Developer Junior. En mis ratos libres me pongo a estu
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 
-<a href="https://wa.link/ycofah">
+<a href="https://wa.link/ycofah" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/>
 </a>
 
-<a href="mailto:mazabandalenin180@gmail.com">
+<a href="mailto:mazabandalenin180@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/>
 </a>
 
-<a href="https://twitter.com/_leninner">
+<a href="https://twitter.com/_leninner" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
 </a>
 
-<a href="https://medium.com/@leninner">
+<a href="https://medium.com/@leninner" target="_blank">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/>
 </a>
 
