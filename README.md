@@ -1,6 +1,6 @@
-# Hola, yo soy Lenin 😄
+# Hi, I am Lenin. Frontend Developer with ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 😄
 
-Soy autodidacta y Frontend Developer Junior. En mis ratos libres me pongo a estudiar full sobre el front, escuchando una buena canción de fondo, obviamente. I´m currently working in my english level.
+I am a very self-taught and curious Frontend Developer. In my free time, I have been learning a lot about techs of the front like Javascript, React, Redux, HTML/Css and many others techs.
 
 Soy una persona **muy apasionada** con lo que estoy haciendo, **disfrutando** cada dolor de cabeza cuando no logro entender un tema al 100%. 
 Me gustaría trabajar en una empresa en donde su cultura sea genial, en donde tengan como una de sus prioridades sea **velar por la salud mental de sus trabajadores**; una empresa en donde los errores estén totalmente permitidos y constantemente estén rompiendo cosas para **innovar**.
