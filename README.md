@@ -5,7 +5,7 @@ I am a **very self-taught and curious** Frontend Developer. In my free time, I h
 I'm a **very passionate** person with what I'm doing, **enjoying** every headache when I can't understand a topic 100%.
 I would like to work in a company where their culture is great, where one of their priorities is **to ensure the mental health of their workers**; a company where mistakes are totally allowed and they are constantly breaking things to **innovate**.
 
-![texto_alternativo](https://wallpapercave.com/wp/wp4923991.png)
+![texto_alternativo](https://wallpapercave.com/wp/wp4923991.png){width='100px'}
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=leninner)
 
