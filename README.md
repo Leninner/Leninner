@@ -21,7 +21,8 @@
   </h3>
 </div>
 <div align="center">
-   I am a <strong>very self-taught and curious</strong>  Frontend Developer. In my free time, I have been learning a lot about techs of the front like <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+   <h4>
+      I am a <strong>very self-taught and curious</strong>  Frontend Developer. In my free time, I have been learning a lot about techs of the front like <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -29,6 +30,7 @@
 
 I'm a **very passionate** person with that I'm doing, **enjoying** every headache when I can't understand a topic 100%.
 I would like to work in a company where their culture is great, where one of their priorities is **to ensure the mental health of their workers**; a company where mistakes are totally allowed and they are constantly breaking things to **innovate**. Also, I have a bit of experience in ![](https://aleen42.github.io/badges/src/illustrator.svg)
+   </h4>
 </div>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=leninner)
