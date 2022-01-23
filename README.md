@@ -1,5 +1,5 @@
 
-<h1 align="center">🔭 Hi, I am Lenin. Frontend Developer with ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 😄</h1>
+<h1 align="center">🔭 Hi, I am Lenin. Frontend Developer with React 😄</h1>
 
 <div align="center">
    I am avaliable to work in an amazing company
