@@ -11,12 +11,12 @@
       Portfolio (In Constuction)
     </a>
     <span> | </span>
-    <a href="https://www.linkedin.com/in/leninner/">
+    <a href="https://www.linkedin.com/in/leninner/" target="_blank">
       LinkedIn
     </a>
     <span> | </span>
-    <a href="mazabandalenin180@gmail.com">
-      Gmail
+    <a href="https://github.com/Leninner/notes_leninner">
+      Notes
     </a>
   </h3>
 </div>
