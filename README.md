@@ -1,8 +1,8 @@
 
-<h1 align="center">🔭 Hi, I am Lenin. Frontend Developer with React 😄</h1>
+<h1 align="center">🔭Frontend Developer with React 😄</h1>
 
 <div align="center">
-   I am avaliable to work in an amazing company
+   <h3>Hi, I am Lenin and I am avaliable to work in an amazing company</h3>
 </div>
 
 <div align="center">
