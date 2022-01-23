@@ -11,12 +11,12 @@
       Portfolio (In Constuction)
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
-      Solution
+    <a href="https://www.linkedin.com/in/leninner/">
+      LinkedIn
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/mGd5VpbO4JnzU6I9l96x">
-      Challenge
+    <a href="mazabandalenin180@gmail.com">
+      Gmail
     </a>
   </h3>
 </div>
