@@ -27,8 +27,8 @@
    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    and many others techs. 
-      
-      In addition, I have been improving my level of English.
+
+In addition, I have been improving my level of English.
 
 I'm a **very passionate** person with that I'm doing, **enjoying** every headache when I can't understand a topic 100%.
       
