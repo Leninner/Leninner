@@ -26,10 +26,15 @@
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-   and many others techs. In addition, I have been improving my level of English.
+   and many others techs. 
+      
+      In addition, I have been improving my level of English.
 
 I'm a **very passionate** person with that I'm doing, **enjoying** every headache when I can't understand a topic 100%.
-I would like to work in a company where their culture is great, where one of their priorities is **to ensure the mental health of their workers**; a company where mistakes are totally allowed and they are constantly breaking things to **innovate**. Also, I have a bit of experience in ![](https://aleen42.github.io/badges/src/illustrator.svg)
+      
+I would like to work in a company where their culture is great, where one of their priorities is **to ensure the mental health of their workers**; a company where mistakes are totally allowed and they are constantly breaking things to **innovate**. 
+      
+      Also, I have a bit of experience in ![](https://aleen42.github.io/badges/src/illustrator.svg)
    </h4>
 </div>
 
