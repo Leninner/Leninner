@@ -16,7 +16,7 @@
     </a>
     <span> | </span>
     <a href="https://github.com/Leninner/notes_leninner">
-      Notes
+      Medium
     </a>
   </h3>
 </div>
