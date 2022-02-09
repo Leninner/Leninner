@@ -2,8 +2,7 @@
 <h1 align="center">🔭Frontend Developer with React 😄</h1>
 
 <div align="center">
-   <h3>Hi! I’m a Software Engineering student at Universidad de Ambato</h3>
-   <h3>Hi, I am Lenin and I am available to work in an amazing company</h3>
+   <h3>Hi! I’m Lenin, Software Engineering student at Universidad de Ambato and I am available to work in an amazing company</h3>
 </div>
 
 <div align="center">
