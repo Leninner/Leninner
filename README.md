@@ -1,5 +1,5 @@
 
-<h1 align="center">🔭Frontend Developer with React 😄</h1>
+<h1 align="center">🔭Frontend Developer</h1>
 
 <div align="center">
    <h3>Hi! I’m Lenin, Software Engineering student at Universidad de Ambato and I am available to work in an amazing company</h3>
