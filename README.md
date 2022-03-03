@@ -80,9 +80,12 @@ I would like to work in a company where their culture is great, where one of the
 
 ## My GitHub Stats 📊
 
-<center><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leninner&count_private=true&show_icons=true&theme=radical" />
-</a></center>
+
+<div align="center">
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=leninner&count_private=true&show_icons=true&theme=radical" />
+   </a>
+</div>
 
 ![Metrics](https://metrics.lecoq.io/leninner?template=classic&languages=1&introduction=1&gists=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.aliases=JS&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=America%2FGuayaquil)
 
