@@ -11,7 +11,7 @@
 <div align="center">
   <h3>
     <a href="https://leninner.vercel.app/home">
-      Portfolio (In Constuction)
+      Portfolio
     </a>
     <span> | </span>
     <a href="https://www.linkedin.com/in/leninner/" target="_blank">
