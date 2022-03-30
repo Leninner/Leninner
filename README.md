@@ -10,7 +10,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://leninner.vercel.app/home">
+    <a href="https://leninner.vercel.app">
       Portfolio
     </a>
     <span> | </span>
