@@ -1,4 +1,4 @@
-<h1 align="center">I am Lenin, Frontend Developer 🥳</h1>
+<h1 align="center">Hi, I´m Lenin, Frontend Developer 🥳</h1>
 
 <div align="center">
    <img src="https://user-images.githubusercontent.com/67031243/156487242-10034282-b85a-427a-b00f-5481492d042e.png" alt="this is me">
