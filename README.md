@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I´m Lenin, Frontend Developer 🥳</h1>
 
-<div align="center">
+<!--<div align="center">
    <img src="https://user-images.githubusercontent.com/67031243/156487242-10034282-b85a-427a-b00f-5481492d042e.png" alt="this is me">
-</div>
+</div>-->
 
 <div align="center">
-   <h3>Hi! I’m Lenin, Software Engineering student at Universidad de Ambato and I am available to work in an amazing company</h3>
+   <h3>Hi! I am available to work in an amazing company</h3>
 </div>
 
 <div align="center">
