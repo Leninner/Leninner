@@ -5,7 +5,7 @@
 </div>-->
 
 <div align="center">
-   <h3>Hi! I am available to work in an amazing company</h3>
+   <h3>Hi! I am working on an amazing company</h3>
 </div>
 
 <div align="center">
@@ -30,7 +30,6 @@
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    and many others techs.
 
 In addition, I have been improving my level of English.
