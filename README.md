@@ -5,7 +5,7 @@
 </div>-->
 
 <div align="center">
-   <h3>Hi! I am working on an amazing company</h3>
+   <h3>Now I am working on an amazing company!</h3>
 </div>
 
 <div align="center">
