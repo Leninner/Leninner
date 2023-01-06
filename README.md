@@ -36,9 +36,6 @@
 In addition, I have been improving my level of English.
 
 I'm a **very passionate** person with that I'm doing, **enjoying** every headache when I can't understand a topic 100%.
-
-I would like to work in a company where their culture is great, where one of their priorities is **to ensure the mental health of their workers**; a company where mistakes are totally allowed and they are constantly breaking things to innovate.
-
    </h4>
 </div>
 
