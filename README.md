@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I´m Lenin, Frontend Developer 🥳</h1>
+<h1 align="center">Hi, I´m Lenin, Software Developer 🥳</h1>
 
 <!--<div align="center">
    <img src="https://user-images.githubusercontent.com/67031243/156487242-10034282-b85a-427a-b00f-5481492d042e.png" alt="this is me">
@@ -26,10 +26,11 @@
 
 <div align="center">
    <h4>
-      I am a <strong>very self-taught and curious</strong>  Frontend Developer. In my free time, I have been learning a lot about techs of the front like <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      I am a <strong>very self-taught and curious</strong>  Software Developer. In my free time, I have been learning a lot about techs like <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+   <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' />
    and many others techs.
 
 In addition, I have been improving my level of English.
