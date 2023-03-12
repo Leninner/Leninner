@@ -1,3 +1,4 @@
+<html>
   <section
     style="display: block; width: 100wh; height: 100vh; display: flex; justify-content: space-evenly; align-items: center;"
   >
@@ -9,6 +10,7 @@
       <img src="" alt="leninsin image">
     </div>
   </section>
+</html>
 
 ## My GitHub Stats 📊
 
