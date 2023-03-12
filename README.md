@@ -10,6 +10,16 @@ What inspires me the most is the future 🚀 and the cloud ☁️. The good sala
 
 When I'm not coding, I love spending time with my 😻 cats, exploring the great outdoors on my 🚲 bicycle, and keeping up with the latest 💻📱 technology.
 
+| Technology | Proficiency |
+| --- | --- |
+| Next.js | Advanced |
+| Nest.js | Intermediate |
+| AWS | Intermediate |
+| PostgreSQL | Intermediate |
+| MongoDB | Intermediate |
+| TypeScript | Advanced |
+
+
 ## My GitHub Stats 📊
 
 <div align="center">
