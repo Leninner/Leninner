@@ -1,6 +1,6 @@
 # Hi, I'm Lenin
 
-I'm a Full Stack developer.
+I'm Full Stack developer.
 
 A year ago, I loved Frontend development, but recently I fell in love with 🥳🥳 cloud and backend development.
 
