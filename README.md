@@ -1,25 +1,13 @@
-# Hi, I'm Lenin
-
-I'm Full Stack developer.
-
-A year ago, I loved Frontend development, but recently I fell in love with 🥳🥳 cloud and backend development.
-
-My current stack includes 🔧 NextJs for front-end, 🔧 NestJs for back-end, 🔧 AWS for cloud deployment, and 🔧 PostgresSQL and MongoDB for data storage. I use 🔧 Typescript to write better code.
-
-What inspires me the most is the future 🚀 and the cloud ☁️. The good salary 💰 and the chance to grow and meet people from many countries 🌎 also motivate me to keep improving and learning every day.
-
-When I'm not coding, I love spending time with my 😻 cats, exploring the great outdoors on my 🚲 bicycle, and keeping up with the latest 💻📱 technology.
-
 <h1 align="center">Hi 👋, I'm Lenin</h1>
-<h3 align="center">A passionate full stack developer from EC.</h3>
+<h3 align="center">A passionate full stack developer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leninner" alt="leninner" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_leninner" target="blank"><img src="https://img.shields.io/twitter/follow/_leninner?logo=twitter&style=for-the-badge" alt="_leninner" /></a> </p>
 
-### Blogs posts
+<!-- ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END --> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
