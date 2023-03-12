@@ -12,12 +12,12 @@ When I'm not coding, I love spending time with my 😻 cats, exploring the great
 
 | Technology | Proficiency |
 | --- | --- |
-| Next.js | Advanced |
-| Nest.js | Intermediate |
-| AWS | Intermediate |
-| PostgreSQL | Intermediate |
-| MongoDB | Intermediate |
-| TypeScript | Advanced |
+| Next.js | 🚀🚀🚀 |
+| Nest.js | 🚀🚀 |
+| AWS | 🚀🚀 |
+| PostgreSQL | 🚀🚀 |
+| MongoDB | 🚀🚀 |
+| TypeScript | 🚀🚀🚀 |
 
 
 ## My GitHub Stats 📊
