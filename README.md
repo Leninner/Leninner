@@ -1,14 +1,14 @@
-<section
+  <section
     style="display: block; width: 100wh; height: 100vh; display: flex; justify-content: space-evenly; align-items: center;"
   >
-    <section>
+    <div>
       <h1>Hi, I`m Leninsin</h1>
-    </section>
+    </div>
 
-    <section>
+    <div>
       <img src="" alt="leninsin image">
-    </section>
-</section>
+    </div>
+  </section>
 
 ## My GitHub Stats 📊
 
