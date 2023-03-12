@@ -1,17 +1,14 @@
-```html
-  <section
-    style="display: block; width: 100wh; height: 100vh; display: flex; justify-content: space-evenly; align-items: center;"
-  >
-    <div>
-      <h1>Hi, I`m Leninsin</h1>
-    </div>
+# Hi, I'm Lenin
 
-    <div>
-      <img src="" alt="leninsin image">
-    </div>
-  </section>
-```
+I'm a Full Stack developer.
 
+A year ago, I loved Frontend development, but recently I fell in love with 🥳🥳 cloud and backend development.
+
+My current stack includes 🔧 NextJs for front-end, 🔧 NestJs for back-end, 🔧 AWS for cloud deployment, and 🔧 PostgresSQL and MongoDB for data storage. I use 🔧 Typescript to write better code.
+
+What inspires me the most is the future 🚀 and the cloud ☁️. The good salary 💰 and the chance to grow and meet people from many countries 🌎 also motivate me to keep improving and learning every day.
+
+When I'm not coding, I love spending time with my 😻 cats, exploring the great outdoors on my 🚲 bicycle, and keeping up with the latest 💻📱 technology.
 ## My GitHub Stats 📊
 
 <div align="center">
