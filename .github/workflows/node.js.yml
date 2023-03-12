@@ -9,20 +9,19 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
     
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
-        with:
-          node-version: 16.x
-      - run: npm install
-      - run: npm update_readme
-      - run: |
-          git config --global user.name leninner 
-          git config --global user.name mazabandalenin180@gmail.com
-          git add README.md
-          git commit -m "Update README with latest blog posts"
-          git push 
+    - uses: actions/checkout@v3
+    - uses: actions/setup-node@v3
+      with:
+        node-version: '16'
+    - run: npm install
+    - run: npm update_readme
+    - run: |
+        git config --global user.name leninner 
+        git config --global user.name mazabandalenin180@gmail.com
+        git add README.md
+        git commit -m "Update README with latest blog posts"
+        git push 
     
