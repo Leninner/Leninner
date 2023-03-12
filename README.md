@@ -1,87 +1,38 @@
-<h1 align="center">Hi, I´m Lenin, Software Developer 🥳</h1>
 
-<!--<div align="center">
-   <img src="https://user-images.githubusercontent.com/67031243/156487242-10034282-b85a-427a-b00f-5481492d042e.png" alt="this is me">
-</div>-->
+# Hi, I'm Lenin! 👋
 
-<div align="center">
-   <h3>Now I am working on an amazing company!</h3>
-</div>
+I'm a Full Stack developer. 
 
-<div align="center">
-  <h3>
-    <a href="https://leninner.vercel.app">
-      Portfolio
-    </a>
-    <span> | </span>
-    <a href="https://www.linkedin.com/in/leninner/" target="_blank">
-      LinkedIn
-    </a>
-    <span> | </span>
-    <a href="https://github.com/Leninner/notes_leninner">
-      Medium
-    </a>
-  </h3>
-</div>
+A year ago, I loved Frontend development, but in recent months I've had the opportunity to learn about the cloud and backend development, and I fell in love with it 🥳🥳. 
 
-<div align="center">
-   <h4>
-      I am a <strong>very self-taught and curious</strong>  Software Developer. In my free time, I have been learning a lot about techs like <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-   <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' />
-   and many others techs.
+Now, I enjoy building applications that run smoothly in the cloud and writing scalable, easy-to-maintain code. I'm always looking to learn more and improve my skills! 📚💻
 
-In addition, I have been improving my level of English.
+## My current stack
 
-I'm a **very passionate** person with that I'm doing, **enjoying** every headache when I can't understand a topic 100%.
-   </h4>
-</div>
+For the front-end, I use **NextJs** which is a great **React** framework that makes it easy for me to build high-performance and **SEO-friendly** web apps. 🚀 It's so satisfying to see my work come to life on the screen! 💻
 
-<h2 align="center">🔭🔭 My Current Tech Stack</h2>
+On the back-end, I rely on **NestJs**, which is a powerful Node.js framework that helps me build scalable and maintainable applications. 🔧 It's great to have a suite of tools that makes my job easier and allows me to focus on writing clean, efficient code. 💻
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Nest](https://img.shields.io/badge/Nest%20Js-Node%20Js%20Framework-brightgreen)
-<!-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) -->
+I also work a lot with **AWS**, using services like **CloudFormation, Lambdas, EC2, and Lightsail** to deploy and manage my applications in the cloud. ☁️ This gives me the flexibility and scalability that I need to make sure my apps are running smoothly. 🚀
 
-<h2 align="center"> 🔭 How to reach me? </h2>
+When it comes to data storage, I use both **PostgresSQL and MongoDB**. They're both great database technologies that allow me to store and manage large amounts of data with ease. 🗄️
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/leninner/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
+Finally, I use **Typescript** to write better code. It adds some really useful features like static typing, which helps me catch errors before they even happen. 🐞
 
-  <a href="https://wa.link/ycofah" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/>
-  </a>
+Overall, I'm really happy with the stack of technologies I get to work with, and I'm always eager **to learn more and improve my skills**. 📚
 
-  <a href="mailto:mazabandalenin180@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/>
-  </a>
 
-  <a href="https://twitter.com/_leninner" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
-  </a>
+## What inspires me
 
-  <a href="https://medium.com/@leninner" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/>
-  </a>
-</div>
+What inspires me the most is the future 🚀, especially the cloud ☁️ and the opportunities it offers. In addition, the good salary 💰 and the chance to grow and meet people from many countries 🌎 motivate me to keep improving and learning every day.
 
-<h3> 👯 I’m looking to collaborate on </h3>
-  
-- Technical React Projects
-- Projects related to **Frontend Development**
-- Building cool e-commerces
+## What I loved
+
+👋 Hi there! As an avid 😻 lover of all things beautiful and inspiring, I find myself drawn to a few key passions in life. First and foremost, 🐱 cats hold a special place in my heart, and I can't resist their charm and grace. 
+
+When I'm not spending time with my feline friends, I love nothing more than exploring the great outdoors on my trusty 🚲 bicycle, taking in the stunning 🌄 landscapes and refreshing my soul. 
+
+And when I'm back inside, I'm always eager to dive into the latest and greatest 🖥️ technology, from powerful 💻 laptops to cutting-edge 📱 smartphones, that helps me stay connected and productive.
 
 ## My GitHub Stats 📊
 
