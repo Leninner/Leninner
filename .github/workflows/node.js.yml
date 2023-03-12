@@ -19,5 +19,5 @@ jobs:
       with:
         node-version: 16.x
     - run: npm install
-    - run: npm update-readme
+    - run: npm update_readme
     

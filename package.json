@@ -5,7 +5,8 @@
   "description": "<h1 align=\"center\">Hi 👋, I'm Lenin</h1> <h3 align=\"center\">A passionate full stack developer.</h3>",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update_readme": "node index.js"
   },
   "repository": {
     "type": "git",
