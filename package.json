@@ -1,0 +1,24 @@
+{
+  "name": "leninner",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "<h1 align=\"center\">Hi 👋, I'm Lenin</h1> <h3 align=\"center\">A passionate full stack developer.</h3>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leninner/Leninner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leninner/Leninner/issues"
+  },
+  "homepage": "https://github.com/Leninner/Leninner#readme",
+  "dependencies": {
+    "rss-parser": "^3.12.0"
+  }
+}
