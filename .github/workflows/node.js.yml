@@ -20,7 +20,7 @@ jobs:
     - run: npm run update_readme
     - run: |
         git config --global user.name leninner 
-        git config --global user.name mazabandalenin180@gmail.com
+        git config --global user.email mazabandalenin180@gmail.com
         git add README.md
         git commit -m "Update README with latest blog posts"
         git push 
