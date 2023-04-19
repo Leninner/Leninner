@@ -95,4 +95,4 @@
 
 ![Metrics](https://metrics.lecoq.io/leninner?template=classic&habits=1&achievements=1&wakatime=1&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&achievements.threshold=S&achievements.secrets=true&achievements.display=compact&achievements.limit=0&wakatime.days=7&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.limit=5&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=current&config.timezone=America%2FGuayaquil)
 
-- lastest article: [Three Valuable Tips for Aspiring Developers](https://leninner.medium.com/three-valuable-tips-for-aspiring-developers-25ed5669cb36?source=rss-c6974c3360d9------2)
+- lastest article: [Ejecutar tareas recurrentes con setInterval, React y Redux Toolkit (RTK)](https://leninner.medium.com/ejecutar-tareas-recurrentes-con-setinterval-react-y-redux-toolkit-rtk-4ad8fd324e53?source=rss-c6974c3360d9------2)
