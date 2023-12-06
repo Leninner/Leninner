@@ -1,5 +1,5 @@
-# Hi 👋, I'm Lenin
-## A passionate software developer.
+# Lenin here 
+## A passionate cloud engineer
 
 <p align="left"> 
   <a href="https://twitter.com/_leninner" target="blank">
