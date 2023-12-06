@@ -1,5 +1,4 @@
-# Lenin here 
-## A passionate cloud engineer
+# Passionate cloud engineer
 
 <p align="left"> 
   <a href="https://twitter.com/_leninner" target="blank">
