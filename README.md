@@ -1,10 +1,6 @@
 # Passionate cloud engineer
 
-<p align="left"> 
-  <a href="https://twitter.com/_leninner" target="blank">
-    <img src="https://img.shields.io/twitter/follow/_leninner?logo=twitter&style=for-the-badge" alt="_leninner" />
-  </a>
-</p>
+You can see my portfolio [here](https://leninner.vercel.app/)
 
 ## Connect with Me:
 
