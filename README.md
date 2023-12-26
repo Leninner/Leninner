@@ -23,7 +23,7 @@ You can see my portfolio [here](https://leninner.vercel.app/)
 </p>
 
 ## Latest Article:
-[Ejecutar tareas recurrentes con setInterval, React y Redux Toolkit (RTK)](https://leninner.medium.com/ejecutar-tareas-recurrentes-con-setinterval-react-y-redux-toolkit-rtk-4ad8fd324e53?source=rss-c6974c3360d9------2)
+[Host a static website using AWS and Infrastructure as Code](https://leninner.vercel.app/projects/static-website-aws)
 
 ## Languages and Tools:
 <!-- Add your icons and links here -->
