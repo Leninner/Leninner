@@ -1,4 +1,4 @@
-# Passionate cloud engineer
+# Cloud engineer
 
 You can see my portfolio [here](https://leninner.vercel.app/)
 
