@@ -5,12 +5,8 @@ You can see my portfolio [here](https://leninner.vercel.app/)
 ## Connect with Me:
 
 <p align="left">
-  <a href="https://twitter.com/_leninner" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_leninner" height="30" width="40" />
-  </a>
-
-  <a href="https://instagram.com/leninner" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leninner" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/leninner" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="_leninner" height="30" width="40" />
   </a>
 
   <a href="https://medium.com/@leninner" target="blank">
