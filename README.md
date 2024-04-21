@@ -1,4 +1,6 @@
-# Cloud engineer
+# Software engineer
+
+¡Hola! Soy **Lenin**, un profesional con un enfoque en desarrollo fullstack y más de 2 años de experiencia en el campo. Mi pasión por crear soluciones innovadoras y escalables me ha llevado a explorar y dominar tanto el desarrollo frontend como backend. 
 
 You can see my portfolio [here](https://leninner.vercel.app/)
 
