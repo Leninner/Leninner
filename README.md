@@ -1,6 +1,6 @@
 # Software engineer
 
-Hi, I'm **Lenin**—a backend-focused fullstack developer with over 2 years of experience in building scalable, high-impact solutions. I specialize in system architecture and Domain-Driven Design (DDD), crafting solid backend foundations that drive business success. Let's build something powerful and resilient together!
+Hi, I'm **Lenin**—a software engineer with experience in building scalable, high-impact solutions. I specialize in system architecture and Domain-Driven Design (DDD), crafting solid backend foundations that drive business success. Let's build something powerful and resilient together!
 
 You can see my portfolio [here](https://leninner.vercel.app/)
 
