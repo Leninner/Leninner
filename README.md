@@ -32,23 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" />
 </p>
 
----
-
-### 🧠 Último artículo
-
-[📘 *Host a static website using AWS and Infrastructure as Code*](https://leninner.vercel.app/projects/static-website-aws)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leninner&show_icons=true&theme=radical&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leninner&layout=compact&theme=radical" height="180" />
-</p>
-
----
-
 ### ☕ Let's Build Together
 
 <p align="center">
